@@ -51,7 +51,7 @@
   <tr>
     <td valign="top" width="260" style="padding-top:0;border:none">
       <a href="https://github.com/Darkest-Teddy/DynamicMarioBros">
-        <img src="assets/super-artificial-bros.png" width="260" alt="Super Artificial Bros preview" />
+        <img src="assets/mario.png" width="260" alt="Super Artificial Bros preview" />
       </a>
       <p>
         <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
@@ -65,13 +65,13 @@
     </td>
     <td valign="top" style="padding-top:0;padding-left:16px;border:none">
       <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🍄 Super Artificial Bros</h3>
-      <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">AI-Generated Mario Game Powered by Gemini</h4>
-      <p><b>🏆 Winner — Best Use of AI &amp; LLMs at BostonHacks 2025.</b> A reimagined Super Mario Bros where Gemini procedurally generates entire playable levels on the fly and an AI relationship system rewrites the game around how you play.</p>
+      <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">Fully AI-Generated Mario Levels Powered by Gemini</h4>
+      <p><b>🏆 Winner: Best Use of AI &amp; LLMs at BostonHacks 2025.</b> A reimagined Super Mario Bros where Gemini procedurally generates entire playable levels on the fly and an AI relationship system rewrites the game around how you play.</p>
       <ul>
-        <li>🌍 Infinite, never-repeating levels generated end-to-end by Gemini — no hand-authored maps</li>
+        <li>🌍 Infinite, never-repeating levels generated end-to-end by Gemini, no hand-authored maps</li>
         <li>🤝 Relationship algorithm with Toad, Goomba &amp; Koopa that drives AI-generated NPC dialogue and branching story choices</li>
         <li>🧠 Contextual memory system that tracks long-term player decisions and dynamically tunes difficulty, enemy spawns &amp; rewards</li>
-        <li>⚙️ Full-stack AI pipeline — Python + Gemini backend feeding a real-time HTML5 Canvas game engine</li>
+        <li>⚙️ Full-stack AI pipeline: Python + Gemini backend feeding a real-time HTML5 Canvas game engine</li>
       </ul>
     </td>
   </tr>
