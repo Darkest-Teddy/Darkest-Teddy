@@ -10,12 +10,13 @@
 
 # 💻 Project Showcase
 
-<!-- ───────────── PROJECT 1 ───────────── -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
+### 🌱 Sapling - Best AI in Education, BU CivicHacks 2026
+
+<table>
   <tr>
-    <td valign="top" width="260" style="padding:0;border:none">
+    <td valign="top" width="260">
       <a href="LIVE_URL_HERE">
-        <img src="assets/sapling.png" width="260" alt="Sapling preview" />
+        <img src="assets/Sapling.png" width="260" alt="Sapling preview" />
       </a>
       <p>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -29,19 +30,18 @@
       </p>
       <p>
         <a href="REPO_URL_HERE"><b>View Project →</b></a> &nbsp;
-        <a href="LIVE_URL_HERE"><b>Live Demo →</b></a>
+        <a href="https://saplinglearn.com"><b>Website →</b></a>
       </p>
     </td>
-    <td valign="top" style="padding:0 0 0 16px;border:none">
-      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🌱 Sapling - Best AI in Education, BU CivicHacks 2026</h3>
-      <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">AI Study Platform Powered by a Dynamic Neural Knowledge Graph</h4>
-      <p>An school-community based platform that turns a student's own documents into an AI tutor, then visualizes everything they've mastered as a real-time knowledge graph.</p>
+    <td valign="top">
+      <b>AI Study Platform Powered by a Dynamic Neural Knowledge Graph</b>
+      <p>A school-community based platform that turns a student's own documents into an AI tutor, then visualizes everything they've mastered as a real-time knowledge graph.</p>
       <ul>
-        <li>🧠 Three AI tutoring modes: ocratic, expository, and teach-back</li>
+        <li>🧠 Three AI tutoring modes: Socratic, expository, and teach-back</li>
         <li>🌐 Real-time D3.js knowledge graph that tracks mastery as you learn</li>
-        <li>👥 Collaborative study rooms over WebSockets; equipped with live chat, matchmaking & side-by-side graph comparison</li>
+        <li>👥 Collaborative study rooms over WebSockets — live chat, matchmaking & side-by-side graph comparison</li>
         <li>📄 Upload any document → AI classifies, summarizes & extracts assignments</li>
-        <li>📚 Practice with personalized flashcards and quizzes, with in-depth knowledge mastery calculations by Gemini</li>
+        <li>📚 Personalized flashcards and quizzes with in-depth mastery calculations by Gemini</li>
       </ul>
     </td>
   </tr>
