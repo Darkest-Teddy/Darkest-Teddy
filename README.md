@@ -47,6 +47,7 @@
   </tr>
 </table>
 
+<!-- ───────────── PROJECT 2 ───────────── -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
   <tr>
     <td valign="top" width="260" style="padding-top:0;border:none">
@@ -73,6 +74,39 @@
         <li>🤝 Relationship algorithm with Toad, Goomba &amp; Koopa that drives AI-generated NPC dialogue and branching story choices</li>
         <li>🧠 Contextual memory system that tracks long-term player decisions and dynamically tunes difficulty, enemy spawns &amp; rewards</li>
         <li>⚙️ Full-stack AI pipeline: Python + Gemini backend feeding a real-time HTML5 Canvas game engine</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- ───────────── PROJECT 3 ───────────── -->
+<table width="100%">
+  <tr>
+    <td valign="top" width="260">
+      <a href="https://devpost.com/software/stalk-market">
+        <img src="assets/stalk-market.png" width="260" alt="Stalk Market preview" />
+      </a>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        <a href="REPO_URL_HERE"><b>View Project →</b></a> &nbsp;
+        <a href="https://devpost.com/software/stalk-market"><b>Devpost →</b></a>
+      </p>
+    </td>
+    <td valign="top" style="padding-left:16px">
+      <h3 style="margin-top:0;margin-bottom:2px">🌱 Stalk Market</h3>
+      <p style="margin-top:0;margin-bottom:8px"><b>AI-Powered Stock Market Simulator for Learning to Invest</b></p>
+      <p><b>🏆 Winner: Best Technical Execution, BU Civic Hacks 2026.</b> An interactive financial-literacy game where stocks grow like plants in a garden, so beginners can learn investing safely through simulation instead of risk.</p>
+      <ul>
+        <li>📈 Hybrid pricing engine fusing Geometric Brownian Motion + jump-diffusion with a transfer-learned GPT-2 adapted for numerical price sequences</li>
+        <li>🤖 Real-time ML risk engine (scikit-learn) trained on 2,000+ Monte Carlo portfolios to predict drawdown, volatility, and risk class live</li>
+        <li>🌎 Live macroeconomic data from the FRED API (CPI, Fed funds, recession & yield-curve signals) driving the market</li>
+        <li>🎓 Education Mode that dampens volatility when you over-concentrate — teaching diversification by consequence</li>
       </ul>
     </td>
   </tr>
