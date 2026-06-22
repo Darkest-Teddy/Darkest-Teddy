@@ -92,6 +92,7 @@
         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img alt="GPT-2" src="https://img.shields.io/badge/GPT--2-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>
         <a href="REPO_URL_HERE"><b>View Project →</b></a> &nbsp;
