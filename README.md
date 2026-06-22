@@ -33,7 +33,7 @@
       </p>
     </td>
     <td valign="top" style="padding:0 0 0 16px;border:none">
-      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🌱 Sapling - Best AI in Education, BU CivicHacks 2026</h3>
+      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em;line-height:1">🌱 Sapling - Best AI in Education, BU CivicHacks 2026</h3>
       <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">AI Study Platform Powered by a Dynamic Neural Knowledge Graph</h4>
       <p>An school-community based platform that turns a student's own documents into an AI tutor, then visualizes everything they've mastered as a real-time knowledge graph.</p>
       <ul>
