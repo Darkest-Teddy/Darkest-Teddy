@@ -10,7 +10,7 @@
 
 # ✏️ What I'm Currently Doing
 <ul>
-  <li>Building the Sapling campaign to prepare for the first beta launch university wide</li>
+  <li>Building the Sapling campaign to prepare for the first beta launch university-wide </li>
   <li>Diving deeper into full stack development</li>
   <li>Studying system design & architecture</li>
 </ul>
