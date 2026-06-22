@@ -101,7 +101,7 @@
       </p>
     </td>
     <td valign="top" style="padding-left:16px">
-      <h3 style="margin-top:0;margin-bottom:2px">🏛️ Stalk Market - Best Technical Execution, BU Data Science + X 2026</h3>
+      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🏛️ Stalk Market - Best Technical Execution, BU Data Science + X 2026</h3>
       <p style="margin-top:0;margin-bottom:8px"><b>AI-Powered Stock Market Simulator for Learning to Invest (Stardew Valley Style)</b></p>
       <p>An interactive financial-literacy game where stocks grow like plants in a garden, so beginners can learn investing safely through simulation instead of risk.</p>
       <ul>
@@ -116,4 +116,10 @@
 
 # Tech Stack
 ![Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Darkest-Teddy&style=flat-square&color=3880F7)
+
+</div>
 
