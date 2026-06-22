@@ -119,7 +119,7 @@
 
 <div align="center">
 
-![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=Darkest-Teddy.Darkest-Teddy&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Darkest-Teddy&style=flat-square&color=3880F7&label=Profile+Views)
 
 </div>
 
