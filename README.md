@@ -8,6 +8,13 @@
 # About Me
 <small>I'm a Computer Science and Data Science student @ Boston University, currently working in Full-Stack Development and AI/Machine Learning. There are infinite problems in the real world. Still, I aim to simplify them one step at a time through fun, interactive experiences/visuals that more of the general audience can understand.</small>
 
+# ✏️ What I'm Currently Doing
+<ul>
+  <li>Building the Sapling campaign to prepare for the first beta release</li>
+  <li>Diving deeper into full stack development</li>
+  <li>Studying system design & architecture</li>
+</ul>
+
 # 💻 Project Showcase
 
 <!-- ───────────── PROJECT 1 ───────────── -->
