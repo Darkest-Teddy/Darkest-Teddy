@@ -40,7 +40,8 @@
       </p>
       <p>
         <a href="https://github.com/SaplingLearn/Sapling"><b>View Project →</b></a> &nbsp;
-        <a href="https://saplinglearn.com"><b>Website →</b></a>
+        <a href="https://saplinglearn.com"><b>Website →</b></a> &nbsp;
+        <a href="https://devpost.com/software/sapling-f3wy8k"><b>Devpost →</b></a>
       </p>
     </td>
     <td valign="top" style="padding-top:0;padding-left:16px;border:none">
@@ -127,6 +128,26 @@
 
 # Tech Stack
 ![Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+# 🏆 Trackrecord
+<ul>
+  <li><b>Best Use of AI & LLMs Track Winner</b> at Boston Hacks 2025 for Super Artifical Bros.</li>
+  <li><b>Best Overall at the Red Hat-IBM Open Accelerator Hackathon</b> for Waymark</li>
+  <li><b>AI Tutor Track Winner</b> at BU Civic Hacks 2026 for Sapling</li>
+  <li><b>Best Technical Execution Overall</b> at BU Data Science + X 2026 hackathon for Stalk Market</li>
+  <li><b>BU Code & Tell Audience Choice Award</b> for presenting Sapling</li>
+  <li><b>3rd place in the 2024 IEEE SSCS Arduino Contest</b> for developing a cheap automated lighting system with Arduino hardware in C++</li>
+</ul>
+
+# Let's Connect!
+<div align="center">
+<p><b>I'm always open to discussing interesting topics and meeting new people!</b></p>
+
+<a href="https://www.linkedin.com/in/jacklhe/"><img src="https://img.shields.io/badge/LINKEDIN-33373E?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jacklhe/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-2188FF?style=for-the-badge" alt="Let's Connect" /></a>
+<a href="mailto:hel.jack14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-33373E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:hel.jack14@gmail.com"><img src="https://img.shields.io/badge/DROP%20A%20LINE-E0412E?style=for-the-badge" alt="Drop a Line" /></a>
+</div>
 
 <div align="center">
 
