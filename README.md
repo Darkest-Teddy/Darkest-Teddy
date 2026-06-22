@@ -84,7 +84,7 @@
   <tr>
     <td valign="top" width="260">
       <a href="https://devpost.com/software/stalk-market">
-        <img src="assets/stalk-market.png" width="260" alt="Stalk Market preview" />
+        <img src="assets/Stalk-Market.png" width="260" alt="Stalk Market preview" />
       </a>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -95,19 +95,20 @@
         <img alt="GPT-2" src="https://img.shields.io/badge/GPT--2-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>
-        <a href="REPO_URL_HERE"><b>View Project →</b></a> &nbsp;
+        <a href="https://github.com/Darkest-Teddy/StalkMarket"><b>View Project →</b></a> &nbsp;
+        <a href="https://stalk-market.vercel.app/"><b>Website →</b></a> &nbsp;
         <a href="https://devpost.com/software/stalk-market"><b>Devpost →</b></a>
       </p>
     </td>
     <td valign="top" style="padding-left:16px">
-      <h3 style="margin-top:0;margin-bottom:2px">🌱 Stalk Market</h3>
-      <p style="margin-top:0;margin-bottom:8px"><b>AI-Powered Stock Market Simulator for Learning to Invest</b></p>
-      <p><b>🏆 Winner: Best Technical Execution, BU Civic Hacks 2026.</b> An interactive financial-literacy game where stocks grow like plants in a garden, so beginners can learn investing safely through simulation instead of risk.</p>
+      <h3 style="margin-top:0;margin-bottom:2px">🏛️ Stalk Market - Best Technical Execution, BU Data Science + X 2026</h3>
+      <p style="margin-top:0;margin-bottom:8px"><b>AI-Powered Stock Market Simulator for Learning to Invest (Stardew Valley Style)</b></p>
+      <p>An interactive financial-literacy game where stocks grow like plants in a garden, so beginners can learn investing safely through simulation instead of risk.</p>
       <ul>
         <li>📈 Hybrid pricing engine fusing Geometric Brownian Motion + jump-diffusion with a transfer-learned GPT-2 adapted for numerical price sequences</li>
         <li>🤖 Real-time ML risk engine (scikit-learn) trained on 2,000+ Monte Carlo portfolios to predict drawdown, volatility, and risk class live</li>
         <li>🌎 Live macroeconomic data from the FRED API (CPI, Fed funds, recession & yield-curve signals) driving the market</li>
-        <li>🎓 Education Mode that dampens volatility when you over-concentrate — teaching diversification by consequence</li>
+        <li>🎓 Education Mode that dampens volatility when you over-concentrate, teaching diversification by consequence</li>
       </ul>
     </td>
   </tr>
