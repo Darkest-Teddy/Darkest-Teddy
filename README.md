@@ -15,7 +15,7 @@
   <tr>
     <td valign="top" width="260" style="padding-top:0;border:none">
       <a href="LIVE_URL_HERE">
-        <img src="assets/sapling.png" width="260" alt="Sapling preview" />
+        <img src="assets/Sapling.png" width="260" alt="Sapling preview" />
       </a>
       <p>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -60,13 +60,14 @@
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/Darkest-Teddy/DynamicMarioBros"><b>View Project →</b></a>
+        <a href="https://github.com/Darkest-Teddy/DynamicMarioBros"><b>View Project →</b></a>&nbsp;
+        <a href="https://devpost.com/software/superartificialbrothers"><b>Devpost →</b></a>
       </p>
     </td>
     <td valign="top" style="padding-top:0;padding-left:16px;border:none">
-      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🍄 Super Artificial Bros</h3>
+      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🍄 Super Artificial Bros. - Best Use of AI &amp; LLMs, BostonHacks 2025</h3>
       <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">Fully AI-Generated Mario Levels Powered by Gemini</h4>
-      <p><b>🏆 Winner: Best Use of AI &amp; LLMs at BostonHacks 2025.</b> A reimagined Super Mario Bros where Gemini procedurally generates entire playable levels on the fly and an AI relationship system rewrites the game around how you play.</p>
+      <p>A reimagined Super Mario Bros. where Gemini procedurally generates entire playable levels on the fly and an AI relationship system rewrites the game around how you play.</p>
       <ul>
         <li>🌍 Infinite, never-repeating levels generated end-to-end by Gemini, no hand-authored maps</li>
         <li>🤝 Relationship algorithm with Toad, Goomba &amp; Koopa that drives AI-generated NPC dialogue and branching story choices</li>
