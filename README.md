@@ -10,13 +10,12 @@
 
 # 💻 Project Showcase
 
-### 🌱 Sapling - Best AI in Education, BU CivicHacks 2026
-
-<table>
+<!-- ───────────── PROJECT 1 ───────────── -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
   <tr>
-    <td valign="top" width="260">
+    <td valign="top" width="260" style="padding-top:0;border:none">
       <a href="LIVE_URL_HERE">
-        <img src="assets/Sapling.png" width="260" alt="Sapling preview" />
+        <img src="assets/sapling.png" width="260" alt="Sapling preview" />
       </a>
       <p>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -29,20 +28,50 @@
         <img alt="D3.js" src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
       </p>
       <p>
-        <a href="REPO_URL_HERE"><b>View Project →</b></a> &nbsp;
+        <a href="https://github.com/SaplingLearn/Sapling"><b>View Project →</b></a> &nbsp;
         <a href="https://saplinglearn.com"><b>Website →</b></a>
       </p>
     </td>
-    <td valign="top" style="padding:0 0 0 16px;border:none">
-      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em;line-height:1">🌱 Sapling - Best AI in Education, BU CivicHacks 2026</h3>
+    <td valign="top" style="padding-top:0;padding-left:16px;border:none">
+      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🌱 Sapling - Best AI in Education, BU CivicHacks 2026</h3>
       <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">AI Study Platform Powered by a Dynamic Neural Knowledge Graph</h4>
-      <p>A school-community based platform that turns a student's own documents into an AI tutor, then visualizes everything they've mastered as a real-time knowledge graph.</p>
+      <p>An school-community based platform that turns a student's own documents into an AI tutor, then visualizes everything they've mastered as a real-time knowledge graph.</p>
       <ul>
-        <li>🧠 Three AI tutoring modes: Socratic, expository, and teach-back</li>
+        <li>🧠 Three AI tutoring modes: ocratic, expository, and teach-back</li>
         <li>🌐 Real-time D3.js knowledge graph that tracks mastery as you learn</li>
-        <li>👥 Collaborative study rooms over WebSockets — live chat, matchmaking & side-by-side graph comparison</li>
+        <li>👥 Collaborative study rooms over WebSockets; equipped with live chat, matchmaking & side-by-side graph comparison</li>
         <li>📄 Upload any document → AI classifies, summarizes & extracts assignments</li>
-        <li>📚 Personalized flashcards and quizzes with in-depth mastery calculations by Gemini</li>
+        <li>📚 Practice with personalized flashcards and quizzes, with in-depth knowledge mastery calculations by Gemini</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none">
+  <tr>
+    <td valign="top" width="260" style="padding-top:0;border:none">
+      <a href="https://github.com/Darkest-Teddy/DynamicMarioBros">
+        <img src="assets/super-artificial-bros.png" width="260" alt="Super Artificial Bros preview" />
+      </a>
+      <p>
+        <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Darkest-Teddy/DynamicMarioBros"><b>View Project →</b></a>
+      </p>
+    </td>
+    <td valign="top" style="padding-top:0;padding-left:16px;border:none">
+      <h3 style="margin-top:0;margin-bottom:2px;font-size:1.6em">🍄 Super Artificial Bros</h3>
+      <h4 style="margin-top:0;margin-bottom:8px;font-size:1.1em">AI-Generated Mario Game Powered by Gemini</h4>
+      <p><b>🏆 Winner — Best Use of AI &amp; LLMs at BostonHacks 2025.</b> A reimagined Super Mario Bros where Gemini procedurally generates entire playable levels on the fly and an AI relationship system rewrites the game around how you play.</p>
+      <ul>
+        <li>🌍 Infinite, never-repeating levels generated end-to-end by Gemini — no hand-authored maps</li>
+        <li>🤝 Relationship algorithm with Toad, Goomba &amp; Koopa that drives AI-generated NPC dialogue and branching story choices</li>
+        <li>🧠 Contextual memory system that tracks long-term player decisions and dynamically tunes difficulty, enemy spawns &amp; rewards</li>
+        <li>⚙️ Full-stack AI pipeline — Python + Gemini backend feeding a real-time HTML5 Canvas game engine</li>
       </ul>
     </td>
   </tr>
