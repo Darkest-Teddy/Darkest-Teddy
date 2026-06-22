@@ -3,6 +3,10 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3880F7&center=true&vCenter=true&width=435&lines=Computer+Science;4x+Hackathon+Winner;Learning+Something+New)](https://git.io/typing-svg)
+
+<a href="https://jacklhe.com"><img src="https://img.shields.io/badge/Portfolio-3CB371?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/jacklhe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hel.jack14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 # About Me
