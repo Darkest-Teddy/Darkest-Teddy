@@ -146,7 +146,7 @@
 <a href="https://www.linkedin.com/in/jacklhe/"><img src="https://img.shields.io/badge/LINKEDIN-33373E?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://www.linkedin.com/in/jacklhe/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-2188FF?style=for-the-badge" alt="Let's Connect" /></a>
 <a href="mailto:hel.jack14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-33373E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="mailto:hel.jack14@gmail.com"><img src="https://img.shields.io/badge/DROP%20A%20LINE-E0412E?style=for-the-badge" alt="Send a Message" /></a>
+<a href="mailto:hel.jack14@gmail.com"><img src="https://img.shields.io/badge/SEND%20A%20MESSAGE-E0412E?style=for-the-badge" alt="Send a Message" /></a>
 </div>
 
 <div align="center">
