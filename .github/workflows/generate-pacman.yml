@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate Bomberman
 
 on:
   schedule:
@@ -11,9 +11,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: abozanona/pacman-contribution-graph@v1.0.2
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Darkest-Teddy
+          games: 'bomberman'
           outputs_folder: dist
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
