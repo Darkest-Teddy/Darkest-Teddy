@@ -138,7 +138,7 @@
 # 🏆 Track Record
 <ul>
   <li><b>Best Use of AI & LLMs Track Winner</b> at Boston Hacks 2025 for Super Artifical Bros.</li>
-  <li><b>Best Overall at the Red Hat-IBM Open Accelerator Hackathon</b> for Waymark</li>
+  <li><b>1st Place Overall</b> at the Red Hat-IBM Open Accelerator Hackathon for Waymark</li>
   <li><b>AI Tutor Track Winner</b> at BU Civic Hacks 2026 for Sapling</li>
   <li><b>Best Technical Execution Overall</b> at BU Data Science + X 2026 hackathon for Stalk Market</li>
   <li><b>BU Code & Tell Audience Choice Award</b> for presenting Sapling</li>
