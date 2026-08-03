@@ -10,7 +10,7 @@
 </div>
 
 # About Me
-<small>I'm a Computer Science and Data Science student @ Boston University, currently working in Full-Stack Development and AI/Machine Learning. There are infinite problems in the real world. Still, I aim to simplify them one step at a time through fun, interactive experiences/visuals that more of the general audience can understand.</small>
+<small>I'm a Computer Science and Data Science student @ Boston University, currently working in Full-Stack Development and AI Engineering/Machine Learning. There are infinite problems in the real world. Still, I aim to simplify them one step at a time through fun, interactive experiences/visuals that more of the general audience can understand.</small>
 
 # ✏️ What I'm Currently Doing
 <ul>
